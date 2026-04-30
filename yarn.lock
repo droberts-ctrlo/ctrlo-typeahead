@@ -962,10 +962,10 @@
   resolved "https://registry.yarnpkg.com/@csstools/css-tokenizer/-/css-tokenizer-3.0.4.tgz#333fedabc3fd1a8e5d0100013731cf19e6a8c5d3"
   integrity sha512-Vd/9EVDiu6PPJt9yAh6roZP6El1xHrdvIVGjyBsHR0RYwNHgL7FJPyIIW4fANJNG6FtyZfvlRPpFI4ZM/lubvw==
 
-"@ctrlo/mapper@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@ctrlo/mapper/-/mapper-1.0.0.tgz#a1f5c538f31e21979c34aa70abb423d3c1a648ad"
-  integrity sha512-FEGiAm2DsdwyU0w8LRagzUo1TiuKXZ6fgsaD7CAwwty0pUl7687eOv5sXFJCch1XjhueoEeZNUo+DUIE982//w==
+"@ctrlo/mapper@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@ctrlo/mapper/-/mapper-1.0.1.tgz#7e21afe2aea2e564ea6271691aa604e185ebddaf"
+  integrity sha512-h8EFpMEdtWgE0LDxDZ0pzmilg2TnTgkeP3MZBJpdLIgEHGJxSq7awe2sSNEh75JV9RrJMoJGzkf6XH2LN02t6Q==
 
 "@emnapi/core@^1.4.3":
   version "1.10.0"
